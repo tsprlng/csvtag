@@ -1,0 +1,4 @@
+csvtag
+======
+
+It's a dodgy tool so that if you are working on a big CSV file loaded from a datasource, and you want to add your own annotations, you can do this on a "live" copy of the file and have your extra columns persisted out to JSON. Then when the source is reloaded / updated, the JSON columns will be loaded back in.

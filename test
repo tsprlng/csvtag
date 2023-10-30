@@ -1,0 +1,3 @@
+#!/bin/zsh -e
+
+./update testspace/tags.json testspace/source.csv testspace/annotated.csv id testspace/snapshots
